@@ -1,5 +1,5 @@
 # 🧪 Higgs Boson — Internal Email Previewer Tool  
-> Making invisible HTML emails from the DB visible like the Higgs particle itself.
+> Named after the elusive particle because it felt cool to finally "see" something invisible.
 
 ![Built With Laravel](https://img.shields.io/badge/Built%20with-Laravel-red?style=flat&logo=laravel)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat&logo=postgresql)
